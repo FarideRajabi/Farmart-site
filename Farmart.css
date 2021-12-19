@@ -1,0 +1,144 @@
+
+
+body{
+	direction:ltr;
+	background-color:lightsteelblue;
+	padding:20px;
+	
+}
+.background{
+	border-radius: 1em  1em 0em 0em;
+	height:1300px;
+	background-color:white;
+	margin:0px 50px 0px 50px;
+	
+}
+span{
+	margin-left:20px;
+}
+.title>img,p,form{
+	float:left;
+	 
+	     }
+		 
+		 .title{
+			
+			 border-bottom:1 solid black;
+			padding:10px 0px 30px 0px;
+		 }
+
+form{
+	margin:0px 80px 0px 80px;
+}
+ .gap{
+	margin:100px;
+}
+.fa{
+	margin-right:10px;
+}
+  nav i{  
+        
+       border:1px;
+	   background-color:white;
+	   margin-right:8px;
+	   padding:0px 5px 0px 2px;
+           }
+		.list>i:active{
+			background-color:orange;
+		}
+		
+  
+
+         .milk{
+			 background:url('C:/Users/novin/Desktop/farmart/image.png') 0 0 /cover no-repeat;
+			 width:1146px;
+			 height:290px;
+			 padding:20px;
+			 text-align:left;
+			 font-family:sans-serif;
+			    }
+				
+                .active{
+					width:550px;
+					height:190px;
+	                background:url('C:/Users/novin/Desktop/farmart/20211015_185011.jpg')
+                              100% no-repeat;
+                    background-size:100%;
+	                padding:35px;
+                	margin:10px 0px 10px 10px;
+                	float:left;
+                             }
+	
+ 
+   .off{
+ 	width:410px;
+	height:190px;
+	background:url('C:/Users/novin/Desktop/farmart/20211015_190315.jpg')
+	 right no-repeat; 
+	 background-size:100%;
+	 margin:10px 0px 10px 650px;
+	 padding:35px;
+	
+   }
+   
+   
+    h5{
+		  width:120px;
+	   }
+	   
+	   
+	 .milk input{
+		margin:50px 0px ; 
+	 }
+	 
+        h1,h6,section{
+			margin:0px 60px;
+			text-align:left;
+		    }
+			
+			h1{
+				margin-top:50px;
+				font-size:32px;
+				clear:both;
+				
+			    }
+			
+          img:active{
+			  width:120%;
+			  height:20%;
+		  }
+			
+              .FeaturedBrands{
+				  margin:0px 5px;
+				  float:left;
+				   width:245px;
+				    }
+					
+                           .todayoffers>img{
+							   background-color:white;
+							   float:left;
+							   padding:30px;
+							   
+							   }
+.Category {
+	float:left;
+	margin:0px 26px;
+	 width:80px;
+}
+
+  .new-member{
+	            background-color:bisque;
+	            width:180px;
+	         	height:210px;
+	         	padding:5px;
+	        	text-align:center;
+				float:right;
+				margin-right:20px;
+	        	
+		          }
+				  
+                     .new-off{
+						 font-size:26px;
+						 color:chocolate;
+						 }
+  
