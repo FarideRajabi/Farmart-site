@@ -79,7 +79,7 @@ ul{
   }
 
          .milk{
-			 background:url('C:/Users/novin/Desktop/farmart/image.png') 0 0 /cover no-repeat;
+			 background:url('Image/image.png') 0 0 /cover no-repeat;
 			 width:96.30%;
 			 height:20vw;
 			 padding:1.5vw;
@@ -92,7 +92,7 @@ ul{
 				
                 .active{
 
-	                background:url('C:/Users/novin/Desktop/farmart/20211015_185011.jpg')  0 0 /cover no-repeat;
+	                background:url('Image/20211015_185011.jpg')  0 0 /cover no-repeat;
                     background-size:120%;
                 	float:left;
 					padding:3.5vw;
@@ -103,7 +103,7 @@ ul{
  
    .off{
 	   float: left;
-	   background:url('C:/Users/novin/Desktop/farmart/20211015_190315.jpg')
+	   background:url('Image/20211015_190315.jpg')
 	   0 0 /cover no-repeat;
 	   background-size:102%;
 	   padding:3.5vw;
@@ -123,7 +123,9 @@ ul{
 		 font-size: 1vw;
 		margin:3vw 0 ;
 	 }
-	 
+	 .active input{
+		 margin-top: 1vw;
+	 }
         h1,h6{
 			margin:0 3vw;
 			text-align:left;
